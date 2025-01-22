@@ -59,13 +59,16 @@ La penetración promedio de internet en los hogares de Argentina ha mostrado un 
 ## 🏆 Indicadores Claves de Rendimiento (KPIs)
 
 
-KPI :one: : **Acceso al servicio de Internet**
+1. **Acceso al servicio de Internet**
 
 *  Métrica: Esta métrica se basa en medir el incremento porcentual del acceso al servicio de internet en cada provincia, calculando el número de hogares con acceso a internet por cada 100 hogares.
 
 * Datos Necesarios: Número de hogares con acceso a internet en el trimestre actual y número proyectado de hogares con acceso a internet para el próximo trimestre.
 
 * Objetivo: Aumentar en un 2% el número de hogares con acceso a internet por cada 100 hogares en cada provincia para el próximo trimestre.
+para el próximo trimestre, cada 100 hogares, por provincia.
+1. **KPI de velocidad de conexión Mbps**: Aumentar en un 10% la velocidad de conexión a internet en las provincias analizadas, en el próximo trimestre.
+2. **KPI de crecimiento de ingresos**: Aumentar en un 15% los ingresos en el próximo trimestre.
   
   
 ## :pencil: Dashboard
@@ -79,6 +82,7 @@ Se desarrolló un dashboard en PowerBi que permite explorar detalladamente los d
 * IMAGES: Carpeta que contiene imágenes del readme
 
 * EDA_PI02.ipynb: Archivo Jupyter Notebook que contiene el código en Python desarrollado para la realización del EDA.
+  link [Notebook Colab](https://colab.research.google.com/drive/1PxLyfKxNCdM16llEWuHK1YAoKdpGS1Lx?usp=sharing)
 
 * README.md: archivo que contiene la descripción del proyecto
 
